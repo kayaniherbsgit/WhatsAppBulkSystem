@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2025-08-14 23:47:45",
+    "message": "Hallo People",
+    "total": 5,
+    "sent": 5,
+    "failed": 0
+  },
+  {
+    "date": "2025-08-14 23:34:08",
+    "message": "Vevo",
+    "total": 3,
+    "sent": 3,
+    "failed": 0
+  },
+  {
+    "date": "2025-08-14 02:22:13",
+    "message": "Haha",
+    "total": 3,
+    "sent": 3,
+    "failed": 0
+  }
+]

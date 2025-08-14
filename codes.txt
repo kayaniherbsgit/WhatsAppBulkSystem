@@ -1,0 +1,8 @@
+Client ID
+
+914452657092-73dba1v09p9t2t1su8khkpdpa8d0bnlf.apps.googleusercontent.com
+
+
+Secret Code
+
+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
